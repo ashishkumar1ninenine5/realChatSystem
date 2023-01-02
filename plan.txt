@@ -1,0 +1,19 @@
+// TODO of Current Project : 
+
+1. Create NPM ( which is node package manager) Project // done using npm init
+
+2. Create index , css, js files // done  create a file.
+
+3. install dependencies, express , nodemon ( dev dep.) // done 
+
+4. create a express server ( server.js) // done
+
+5. do a frontend part //done
+
+6. install socket.io // done,Setup socket.io in server.js  and client in client.js // done
+
+7. client send message logic in client.js
+
+8. Recieve message on server and broadcast to all clients 
+
+9. Recieve message on client and display it. ScrollToBottom etc..
